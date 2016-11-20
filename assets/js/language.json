@@ -1,0 +1,13 @@
+{
+  "config": {
+    "default": "en"
+  },
+  "language": {
+    "en": {
+      "#ml-hello": "Hello"
+    },
+    "fr": {
+      "#ml-hello": "Hello"
+    }
+  }
+}
